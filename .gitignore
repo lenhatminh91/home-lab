@@ -1,0 +1,21 @@
+# Real credentials never go into the repo
+credentials.md
+*credentials*.txt
+lab-credentials*
+
+# Generated output from the scripts
+Logs/
+Reports/
+reports/
+*.log
+ADAudit_*.csv
+ADAudit_*.html
+ssh-report_*.txt
+
+# VM and OS files
+*.vmdk
+*.vmem
+*.vmsn
+*.iso
+Thumbs.db
+desktop.ini
